@@ -1,5 +1,4 @@
-# Data Science Individual Project - Gym Dataset Analysis
-
+# Data Science Individual Project - Gym Dataset Analysis (DRAFT)
 ## Introduction
 Introduce the project topic, along with the questions we are trying to answer, why we are interested in them, and how we will answer those using datasets and machine learning models.
 ## Datasets
