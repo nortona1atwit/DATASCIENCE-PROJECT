@@ -1,7 +1,7 @@
 # Data Science Individual Project - Gym Dataset Analysis
 
 ## Introduction
-Introduce the project topic, along with the questions we are trying to answer, and how we will answer those using datasets and machine learning models
+Introduce the project topic, along with the questions we are trying to answer, why we are interested in them, and how we will answer those using datasets and machine learning models.
 ## Datasets
 Introduce the datasets, why they were chosen, and the aspects of them that make them powerful and useful for this project
 ## Methodology
