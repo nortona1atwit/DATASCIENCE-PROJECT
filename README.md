@@ -1,6 +1,7 @@
 # Introduction
 ***
 #### Data Science Project by Aidan Norton <br>
+[Jupyter Notebook](./codes/powerlifting.ipynb) <br> <br>
 In this project, we will look at the sport of powerlifting. We will aim to answer the following three questions: <br>
 - How is an individuals bodyweight correlated to their max bench press?
 - Are Males/Females Relatively Better at a Given Exercise Compared to one Another?
